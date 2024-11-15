@@ -1,6 +1,6 @@
-🚀 Excited to Share My Latest Project: Netflix UI Clone! 🎬
+🚀 Excited to Share My Project: Netflix UI Clone! 🎬
 
-I'm thrilled to present my latest project—a Netflix UI Clone that I built using HTML and CSS. This project was a fantastic opportunity to sharpen my front-end development skills and dive deeper into creating smooth, visually appealing user interfaces.
+I'm thrilled to present my project—a Netflix UI Clone that I built using HTML and CSS. This project was a fantastic opportunity to sharpen my front-end development skills and dive deeper into creating smooth, visually appealing user interfaces.
 
 🔍 Project Highlights:
 
@@ -17,7 +17,3 @@ CSS3 for styling, including Flexbox and Grid for layout management.
 
 📌 What I Learned:
 This project was a great learning experience in balancing aesthetics with performance. I deepened my understanding of advanced CSS techniques.
-
-🎯 Next Steps:
-
-I'm eager to keep exploring modern web development trends and tools to create even more immersive user experiences. This project is just a stepping stone, and I can't wait to see what comes next!
